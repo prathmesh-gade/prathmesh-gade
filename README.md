@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠️ Technical Skills
+<h2 align="center">🛠️ Technical Skills</h2>
 
 <p align="center">
 
@@ -37,7 +37,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prathmesh-gade&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -53,7 +53,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=prathmesh-gade&theme=algolia&no-frame=true&row=1&column=8" />
@@ -81,7 +81,7 @@
 
 ---
 
-## 🐍 Contribution Graph
+<h2 align="center">🐍 Contribution Graph</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathmesh-gade/prathmesh-gade/output/pacman-contribution-graph-dark.svg">
