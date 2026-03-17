@@ -12,6 +12,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathmesh-gade&show_icons=true&locale=en&layout=compact" alt="prathmesh-gade" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=prathmesh-gade&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathmesh-gade&show_icons=true&locale=en" alt="prathmesh-gade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathmesh-gade&" alt="prathmesh-gade" /></p>
