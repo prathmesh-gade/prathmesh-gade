@@ -61,16 +61,6 @@
 
 ---
 
-## 🚀 Projects
-
-### 🌍 Tourism Website  
-🔗 https://myworldtourism.netlify.app/  
-
-### 🧾 QR Code Ordering System  
-🔗 (Add your project link here)
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
@@ -90,13 +80,6 @@
 </p>
 
 ---
-
-## 🔥 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prathmesh-gade&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 
 ## 🐍 Contribution Graph
 
