@@ -56,7 +56,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prathmesh-gade&theme=onedark&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prathmesh-gade&theme=algolia&no-frame=true&row=1&column=8" />
 </p>
 
 ---
