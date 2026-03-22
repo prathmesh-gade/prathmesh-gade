@@ -55,12 +55,7 @@
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=prathmesh-gade&theme=algolia&no-frame=true&margin-w=15&margin-h=15&row=1&column=5" 
-    alt="GitHub Trophies"
-  />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=SahilMaral&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
